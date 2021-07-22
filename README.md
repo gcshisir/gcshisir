@@ -13,7 +13,7 @@
   <a href="http://gcshisir.com.np/?i=1">
     <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/website-32x32.png">
   </a>
-  <a href="" style="margin-left:20px;margin-right:20px;">
+  <a href="https://www.linkedin.com/in/shisir-g-c-851695176/" style="margin-left:20px;margin-right:20px;">
     <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-32x32.png" >
   </a>
   <a href="https://twitter.com/Shisir48897812">
