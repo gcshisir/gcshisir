@@ -1,14 +1,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<div style="text-align:center;">
-  <h1>Hi, I am Shisir</h1>
-  <h4>I am a programmer and an active learner</h4>
-</div>
+
+<h1 align='center'>Hi, I am Shisir</h1>
+<h4 align='center'>I am a programmer and an active learner</h4>
 
 <br><br>
 
-<h2 style="text-align:center;">Connect with me</h2>
-<p style="text-align:center;margin-top:30px;">
+<h2 align='center'>Connect with me</h2>
+<p style="margin-top:30px;" align='center'>
   <a href="http://gcshisir.com.np/?i=1">
     <i class="fas fa-globe fa-2x"></i>
   </a>
