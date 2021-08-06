@@ -24,6 +24,9 @@
   </a>
 </p>
 
+[![Shisir's GitHub stats](https://github-readme-stats.vercel.app/api?username=gc-shisir)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- # Hi, I am Shisir
 ### I am web and mobile developer
 
