@@ -38,6 +38,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gc-shisir&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gc-shisir&theme=monokai)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 <!-- - 🔭 I’m currently working on reactjs
