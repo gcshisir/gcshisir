@@ -63,7 +63,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gc-shisir&theme=monokai)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1)]
 
 [![Shisir's github activity graph](https://activity-graph.herokuapp.com/graph?username=gc-shisir&theme=rogue)]
 
