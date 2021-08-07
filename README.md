@@ -65,6 +65,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gc-shisir&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
