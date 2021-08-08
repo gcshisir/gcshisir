@@ -59,13 +59,13 @@
 ---
 
 ![Shisir's GitHub stats](https://github-readme-stats.vercel.app/api?username=gc-shisir&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gc-shisir&theme=monokai)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1)]
+![trophy](https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1)
 
-[![Shisir's github activity graph](https://activity-graph.herokuapp.com/graph?username=gc-shisir&theme=rogue)]
+![Shisir's github activity graph](https://activity-graph.herokuapp.com/graph?username=gc-shisir&theme=rogue)
 
 
 
