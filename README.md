@@ -27,7 +27,7 @@
 ---
 
 - 🔭 I’m currently working on reactjs
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning docker
 - 🤔 I’m looking for help with collaboration
 - 📫 How to reach me: [Shisir G.C.](http://gcshisir.com.np/)
 - ⚡ Fun fact: Everything is fun
