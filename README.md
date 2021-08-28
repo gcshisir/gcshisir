@@ -49,8 +49,7 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" height="70"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" height="70"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/others/git.svg" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" height="70"/> </a>
-   
+  
 </p>
 
 ---
