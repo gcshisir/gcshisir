@@ -38,17 +38,17 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" height="70"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" height="70"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" height="70"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="70"/> </a>
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" height="70"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" height="70"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" height="70"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" height="70"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/materialize.svg" height="70"/> </a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/others/git.svg" height="70"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" height="70"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/others/git.svg" height="70"/> </a>
   
 </p>
 
