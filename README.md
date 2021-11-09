@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 <h1 align='center'>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shisir</h1>
-<h4 align='center'>I am a Computer Engineering student form Nepal. I love learning new techs out there and open to learning any technologies. I enjoy working with web and mobile technologies.</h4>
+<h4 align='center'>I am a Computer Engineering student from Nepal. I love learning new techs out there and open to learning any technologies. I enjoy working with web and mobile technologies.</h4>
 
 <br>
 
@@ -41,8 +41,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" height="70"/> </a>
   <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" height="70"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="70"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg" height="60" width="60"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" height="70"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" height="70"/> </a>
+  <a href="https://v3.vuejs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" height="70"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" height="70"/> </a>
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" height="70"/> </a>
     <a href="https://materializecss.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/materialize.svg" height="70"/> </a>
