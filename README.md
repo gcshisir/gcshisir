@@ -56,16 +56,22 @@
 
 ---
 
-![Shisir's GitHub stats](https://github-readme-stats.vercel.app/api?username=gc-shisir&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gc-shisir&show_icons=true&theme=tokyonight" alt="Shisir's Github Stats" height='200px'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Shisir's Top Languages"      height='200px'>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gc-shisir&theme=monokai)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gc-shisir&theme=monokai" alt="Shisir's Github Stats" width="100%">
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1)
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1" alt="Shisir's Trophy" width="100%">
+</p>
 
-![Shisir's github activity graph](https://activity-graph.herokuapp.com/graph?username=gc-shisir&theme=rogue)
-
-
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=gc-shisir&theme=rogue" alt="Shisir's Github Contribution Graph" width="100%">
+</p>
 
 
 
