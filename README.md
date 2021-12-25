@@ -58,7 +58,7 @@
 
 <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=gc-shisir&show_icons=true&theme=tokyonight" alt="Shisir's Github Stats" height='50%' width='50%'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-shisir&hide=html,css,scss,blade&layout=compact&theme=tokyonight" alt="Shisir's Top Languages"      height='50%' width='41.7%'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-shisir&hide=html,css,scss,blade&langs_count=6&layout=compact&theme=tokyonight" alt="Shisir's Top Languages"      height='50%' width='41.7%'>
 </p>
 
 <p>
