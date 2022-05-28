@@ -32,6 +32,8 @@
 - 📫 How to reach me: [Shisir G.C.](http://gcshisir.com.np/)
 - ⚡ Fun fact: Everything is fun
 
+![HitCount](https://hits.dwyl.com/gc-shisir/gc-shisir.svg?style=flat-square)
+
 
 ---
 
