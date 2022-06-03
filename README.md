@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
-<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shisir</h1>
+<h1 align='center'>Hi :wave:, I am Shisir</h1>
 <h4 align='center'>I am a Computer Engineering student from Nepal. I love learning new techs out there and open to learning any technologies. I enjoy working with web and mobile technologies.</h4>
 
 <br>
