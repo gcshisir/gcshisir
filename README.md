@@ -32,7 +32,7 @@
 - 📫 How to reach me: [Shisir G.C.](http://gcshisir.com.np/)
 - ⚡ Fun fact: Everything is fun
 
-![HitCount](https://hits.dwyl.com/gc-shisir/gc-shisir.svg?style=flat-square)
+![HitCount](https://hits.dwyl.com/gcshisir/gcshisir.svg?style=flat-square)
 
 
 ---
@@ -40,39 +40,39 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" height="70"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" height="70"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="70"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg" height="60" width="60"/> </a>
-  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" height="70"/> </a>
-  <a href="https://v3.vuejs.org/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" height="70"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" height="70"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" height="70"/> </a>
-    <a href="https://materializecss.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/frameworks/materialize.svg" height="70"/> </a>
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" height="70"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" height="70"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/gc-shisir/Github-Profile-Readme-Logos/blob/master/others/git.svg" height="70"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" height="70"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" height="70"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="70"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg" height="60" width="60"/> </a>
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" height="70"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" height="70"/> </a>
+  <a href="https://v3.vuejs.org/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" height="70"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" height="70"/> </a>
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" height="70"/> </a>
+    <a href="https://materializecss.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/materialize.svg" height="70"/> </a>
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" height="70"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" height="70"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/others/git.svg" height="70"/> </a>
   
 </p>
 
 ---
 
 <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=gc-shisir&show_icons=true&theme=tokyonight" alt="Shisir's Github Stats" height='50%' width='50%'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-shisir&hide=html,css,scss,blade&langs_count=6&layout=compact&theme=tokyonight" alt="Shisir's Top Languages"      height='50%' width='41.7%'>
+  <img src="https://github-readme-stats.vercel.app/api?username=gcshisir&show_icons=true&theme=tokyonight" alt="Shisir's Github Stats" height='50%' width='50%'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcshisir&hide=html,css,scss,blade&langs_count=6&layout=compact&theme=tokyonight" alt="Shisir's Top Languages"      height='50%' width='41.7%'>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gc-shisir&theme=monokai" alt="Shisir's Github Stats" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gcshisir&theme=monokai" alt="Shisir's Github Stats" width="100%">
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=gc-shisir&theme=onedark&row=1" alt="Shisir's Trophy" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=gcshisir&theme=onedark&row=1" alt="Shisir's Trophy" width="100%">
 </p>
 
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=gc-shisir&theme=rogue" alt="Shisir's Github Contribution Graph" width="100%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=gcshisir&theme=rogue" alt="Shisir's Github Contribution Graph" width="100%">
 </p>
 
 
