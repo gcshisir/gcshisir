@@ -9,20 +9,20 @@
 
 <br>
 
-<p  align='center'>
+<p align='center'>
   <a href="http://gcshisir.com.np/?i=1">
-    <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/website-32x32.png">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
-  <a href="https://www.linkedin.com/in/shisir-g-c-851695176/" style="margin-left:20px;margin-right:20px;">
-    <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-32x32.png" >
+  <a href="https://www.linkedin.com/in/shisir-g-c-851695176/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/Shisir48897812">
-    <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-32x32.png"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" >
   </a>
-  <a href="https://www.facebook.com/shisir.gc.14/" style="margin-left:20px;">
-    <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/facebook-32x32.png"  />
-  </a>
+  <a href="https://www.facebook.com/shisir.gc.14/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </p>
+
 
 ---
 
