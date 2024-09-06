@@ -1,42 +1,17 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
 <h1 align='center'>Hi :wave:, I am Shisir</h1>
-<h4 align='center'>I am a Computer Engineering student from Nepal. I love learning new techs out there and open to learning any technologies. I enjoy working with web and mobile technologies.</h4>
+<h4 align='center'>I am a Software Engineer from Nepal, specializing in web development, mobile applications, and data-driven solutions.</h4>
 
-<br>
-
-<h2 align='center'>Connect with me</h2>
-
-<br>
+## Connect with me
 
 <p align='center'>
-  <a href="http://gcshisir.com.np/?i=1">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/shisir-g-c-851695176/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Shisir48897812">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" >
-  </a>
-  <a href="https://www.facebook.com/shisir.gc.14/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <a href="http://gcshisir.com.np"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/shisir-g-c-851695176/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/Shisir48897812"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" ></a>
+  <a href="http://blog.gcshisir.com.np"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog">
 </p>
 
 
----
-
-- 🔭 I’m currently working on reactjs
-- 🌱 I’m currently learning docker
-- 🤔 I’m looking for help with collaboration
-- 📫 How to reach me: [Shisir G.C.](http://gcshisir.com.np/)
-- ⚡ Fun fact: Everything is fun
-
-![HitCount](https://hits.dwyl.com/gcshisir/gcshisir.svg?style=flat-square)
-
-
----
-
+<!--
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -55,26 +30,35 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/others/git.svg" height="70"/> </a>
   
 </p>
+-->
+
+## Language and Tools
+
+<p align="center">
+<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="">
+</p>
+
 
 ---
 
 <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=gcshisir&show_icons=true&theme=tokyonight" alt="Shisir's Github Stats" height='50%' width='50%'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcshisir&hide=html,css,scss,blade&langs_count=6&layout=compact&theme=tokyonight" alt="Shisir's Top Languages"      height='50%' width='41.7%'>
+  <img src="https://github-readme-stats.vercel.app/api?username=gcshisir&show_icons=true&theme=blueberry" alt="Shisir's Github Stats" height='50%' width='50%'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcshisir&hide=html,css,scss,blade&langs_count=6&layout=compact&theme=blueberry" alt="Shisir's Top Languages"      height='50%' width='41.7%'>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gcshisir&theme=monokai" alt="Shisir's Github Stats" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gcshisir&theme=blueberry" alt="Shisir's Github Stats" width="100%">
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=gcshisir&theme=onedark&row=1" alt="Shisir's Trophy" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gcshisir&theme=react-dark" alt="Shisir's Github Contribution Graph" width="100%">
 </p>
-
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=gcshisir&theme=rogue" alt="Shisir's Github Contribution Graph" width="100%">
-</p>
-
 
 
 <!-- - 🔭 I’m currently working on reactjs
