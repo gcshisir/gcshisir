@@ -10,55 +10,36 @@
   <a href="http://blog.gcshisir.com.np"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog">
 </p>
 
-
-<!--
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" height="70"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" height="70"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="70"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg" height="60" width="60"/> </a>
-  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" height="70"/> </a>
-  <a href="https://v3.vuejs.org/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" height="70"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" height="70"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" height="70"/> </a>
-    <a href="https://materializecss.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/frameworks/materialize.svg" height="70"/> </a>
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" height="70"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" height="70"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/gcshisir/Github-Profile-Readme-Logos/blob/master/others/git.svg" height="70"/> </a>
-  
-</p>
--->
-
 ## Language and Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon AWS">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle Cloud">
+</p>
+
+<!--<p align="center">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="">
 </p>
+-->
 
 
----
+## Github Stats
 
-<p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=gcshisir&show_icons=true&theme=blueberry" alt="Shisir's Github Stats" height='50%' width='50%'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcshisir&hide=html,css,scss,blade&langs_count=6&layout=compact&theme=blueberry" alt="Shisir's Top Languages"      height='50%' width='41.7%'>
-</p>
+<a href="https://github.com/gcshisir"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gcshisir&show_icons=true&theme=blueberry&hide_border=true" /></a>
+<a href="https://github.com/gcshisir"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcshisir&layout=compact&langs_count=8&hide=html,css,scss,blade&theme=blueberry&hide_border=true" /></a>
 
-<p>
+<a href="https://github.com/gcshisir">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gcshisir&theme=blueberry" alt="Shisir's Github Stats" width="100%">
-</p>
+</a>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gcshisir&theme=react-dark" alt="Shisir's Github Contribution Graph" width="100%">
-</p>
+<a href="https://github.com/gcshisir">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gcshisir&theme=react-dark&custom_title=Contribution%20Graph" alt="Shisir's Github Contribution Graph" width="100%">
+</a>
 
 
 <!-- - 🔭 I’m currently working on reactjs
