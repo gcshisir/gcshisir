@@ -1,5 +1,6 @@
-<h1 align='center'>Hi :wave:, I am Shisir</h1>
-<h4 align='center'>I am a Software Engineer from Nepal, specializing in web development, mobile applications, and data-driven solutions.</h4>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&width=435&height=80&lines=Hi+%F0%9F%91%8B%2C+I+am+Shisir&center=true&vCenter=true" alt="Typing SVG" /></p>
+<h4 align="center">I am a Software Engineer from Nepal, specializing in web development, mobile applications, and data-driven solutions.</h4>
+<p  align="center"><img src="https://komarev.com/ghpvc/?username=gcshisir&style=for-the-badge"></p>
 
 ## Connect with me
 
